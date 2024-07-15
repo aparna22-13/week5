@@ -1,4 +1,5 @@
 # Tiffin Service Platform
+![tiffinsystem](https://github.com/user-attachments/assets/8bb2e8f6-e5b7-41c7-8543-4d3a033fb216) TiffinManagment is a basic Tiffin Ordering Application that is build using the MERN Stack stands for MongoDB, ExpressJS, ReactJS, NodeJS.
 
 ## Features
 
@@ -36,5 +37,6 @@
 - RazorPay
 
 ### Deployment
-- Frontend: Verc
-![tiffinsystem](https://github.com/user-attachments/assets/8bb2e8f6-e5b7-41c7-8543-4d3a033fb216) TiffinManagment is a basic Tiffin Ordering Application that is build using the MERN Stack stands for MongoDB, ExpressJS, ReactJS, NodeJS.
+- Frontend: Vercel
+- Backend: Cyclic
+
